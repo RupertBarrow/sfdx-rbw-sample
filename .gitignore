@@ -58,6 +58,7 @@ typings/
 .env
 
 .sfdx
+.localdevserver
 build/
 dist/
 *.zip
